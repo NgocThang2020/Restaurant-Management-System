@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dcf04d7 (Intial upload)
 # Đặc tả hệ thống — Bếp Nhà
 
 **Phiên bản:** 1.0 · **Loại hệ thống:** Web quản lý nhà hàng đơn giản · **Ngôn ngữ giao diện:** Tiếng Việt
@@ -71,6 +74,7 @@ Quản lý kho/nhân viên, phân quyền, đồng bộ nhiều thiết bị, m�
 ## 8. Khởi chạy
 
 Mở `index.html` bằng trình duyệt hiện đại. Có thể xóa dữ liệu demo bằng cách xóa khóa `bepnha-state` trong Local Storage của trang.
+<<<<<<< HEAD
 =======
 # Đặc tả hệ thống — Bếp Nhà
 
@@ -145,3 +149,5 @@ Quản lý kho/nhân viên, phân quyền, đồng bộ nhiều thiết bị, m�
 
 Mở `index.html` bằng trình duyệt hiện đại. Có thể xóa dữ liệu demo bằng cách xóa khóa `bepnha-state` trong Local Storage của trang.
 >>>>>>> ca291255b92bf6dd5ff809b27023fe4569ac724e
+=======
+>>>>>>> dcf04d7 (Intial upload)

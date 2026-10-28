@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dcf04d7 (Intial upload)
 # Bộ tình huống kiểm thử lỗi — Bếp Nhà
 
 Tài liệu này dành cho người kiểm thử. Mỗi tình huống mô tả lỗi cần phát hiện, không đưa cách sửa. Trạng thái mong đợi được đối chiếu với đặc tả trong `SPEC.md`.
@@ -19,6 +22,7 @@ Tài liệu này dành cho người kiểm thử. Mỗi tình huống mô tả l
 ## Ghi nhận kết quả
 
 Người kiểm thử nên ghi ID, môi trường/trình duyệt, dữ liệu đầu vào, bước thực hiện, kết quả thực tế, ảnh chụp và mức độ ảnh hưởng. Không sửa Local Storage giữa các bước trừ khi tình huống yêu cầu dữ liệu sạch.
+<<<<<<< HEAD
 =======
 # Bộ tình huống kiểm thử lỗi — Bếp Nhà
 
@@ -41,3 +45,5 @@ Tài liệu này dành cho người kiểm thử. Mỗi tình huống mô tả l
 
 Người kiểm thử nên ghi ID, môi trường/trình duyệt, dữ liệu đầu vào, bước thực hiện, kết quả thực tế, ảnh chụp và mức độ ảnh hưởng. Không sửa Local Storage giữa các bước trừ khi tình huống yêu cầu dữ liệu sạch.
 >>>>>>> ca291255b92bf6dd5ff809b27023fe4569ac724e
+=======
+>>>>>>> dcf04d7 (Intial upload)
